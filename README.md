@@ -75,7 +75,7 @@ fun_fact: I optimize everything—code, travel routes, and coffee brewing time �
 
 ### 📌 Featured Projects
 
-#### 🗺️ [Odyssey](https://github.com/deepsheth3/Oddesey) — AI Travel Agent
+#### 🗺️ [Odyssey](https://github.com/deepsheth3/Odyssey) — AI Travel Agent
 > Full-stack AI planner that generates optimized itineraries using GPT-4 agents, Google Places API, and geospatial analytics. Built with FastAPI + Next.js.
 
 **Highlights:**
@@ -85,23 +85,24 @@ fun_fact: I optimize everything—code, travel routes, and coffee brewing time �
 
 ---
 
-#### ⚡ [PageRank CUDA](https://github.com/deepsheth3/pagerank-cuda) — GPU Graph Algorithm
-> Parallel PageRank implementation achieving 7x speedup on NVIDIA A100 GPU.
+### 📂 All Projects
 
-**Highlights:**
-- Reduced kernel time from 9.3s → 1.3s
-- Advanced memory tiling and shared-memory optimization
-- Stable performance across 1M+ node graphs
-
----
-
-#### 🔍 [Bloom Filter Join](https://github.com/deepsheth3/bloom-join) — Database Optimization
-> Modified DuckDB's hash join operator with multilevel Bloom filters for 2.5x query speedup.
-
-**Highlights:**
-- Prefilters 100K+ probe-side keys per query
-- 45% reduction in redundant hash lookups
-- Benchmarked on TPC-H workloads
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| **🗺️ [Odyssey](https://github.com/deepsheth3/Odyssey)** | AI-powered travel planner with zero backtracking | TypeScript, FastAPI, GPT-4 |
+| **🔍 [RAG-Search](https://github.com/deepsheth3/RAG-Search-with-FastAPI-and-Next.js)** | RAG architecture with FastAPI & Next.js | Python, LangChain |
+| **🎓 [LLM Teaching Assistant](https://github.com/deepsheth3/llm-teaching-assistant)** | Agentic course assistant powered by LLMs | Python, OpenAI |
+| **🏥 [HIA](https://github.com/deepsheth3/HIA)** | Agentic Health Insight App | Python, AI Agents |
+| **🤖 [ChatGPT from Scratch](https://github.com/deepsheth3/Chat-GPT-from-Scratch)** | Built a GPT model from scratch | PyTorch, Jupyter |
+| **⚡ [Parallel PageRank](https://github.com/deepsheth3/Parallel_PageRank)** | 7x GPU speedup on graph algorithms | C++, CUDA |
+| **🗄️ [ADS Buffer Manager](https://github.com/deepsheth3/ADS)** | Buffer management system for Postgres | C |
+| **📈 [Stock Prediction](https://github.com/deepsheth3/Stock_Prediction_using_News_Sentiment)** | Stock prediction using news sentiment analysis | Python, LSTM |
+| **�️ [Phishing Analysis](https://github.com/deepsheth3/phishingdata-Analysis)** | ML-based phishing email detection | Python, scikit-learn |
+| **📝 [React Notes](https://github.com/deepsheth3/React_notes_project)** | Notes application with React | JavaScript, React |
+| **🔐 [Auth Project](https://github.com/deepsheth3/Auth-Project)** | Full authentication implementation | Node.js, EJS |
+| **🧠 [Makemore Series](https://github.com/deepsheth3/makemore_series)** | Projects from Karpathy's makemore | PyTorch, Jupyter |
+| **🎬 [Hotstar Clone](https://github.com/deepsheth3/hotstar-clone)** | Clone of Hotstar streaming platform | Web Dev |
+| **💻 [LeetCode](https://github.com/deepsheth3/LeetCode)** | 300+ solved LeetCode problems | DSA |
 
 ---
 
