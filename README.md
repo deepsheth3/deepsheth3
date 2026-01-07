@@ -17,7 +17,7 @@
 
 ```yaml
 name: Deep Vivek Sheth
-location: Los Angeles, CA
+location: San Francisco, CA
 education: MS Computer Science @ USC (2025)
 current_role: Building AI systems that reason, plan, and act
 
