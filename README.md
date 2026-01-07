@@ -118,12 +118,18 @@ fun_fact: I optimize everything—code, travel routes, and coffee brewing time �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepsheth3&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsheth3&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/deepsheth3">
+    <img src="https://github-readme-stats.vercel.app/api?username=deepsheth3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/deepsheth3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsheth3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsheth3&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/deepsheth3">
+    <img src="https://streak-stats.demolab.com?user=deepsheth3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
