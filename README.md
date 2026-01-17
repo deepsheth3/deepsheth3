@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=deepsheth3&color=blueviolet&style=flat-square)
 <h1 align="center">Hey, I'm Deep 👋</h1>
 
 <p align="center">
