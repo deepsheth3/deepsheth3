@@ -87,22 +87,19 @@ fun_fact: I optimize everything—code, travel routes, and coffee brewing time �
 
 ### 📂 All Projects
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **🗺️ [Odyssey](https://github.com/deepsheth3/Odyssey)** | AI-powered travel planner with zero backtracking | TypeScript, FastAPI, GPT-4 |
-| **🔍 [RAG-Search](https://github.com/deepsheth3/RAG-Search-with-FastAPI-and-Next.js)** | RAG architecture with FastAPI & Next.js | Python, LangChain |
-| **🎓 [LLM Teaching Assistant](https://github.com/deepsheth3/llm-teaching-assistant)** | Agentic course assistant powered by LLMs | Python, OpenAI |
-| **🏥 [HIA](https://github.com/deepsheth3/HIA)** | Agentic Health Insight App | Python, AI Agents |
-| **🤖 [ChatGPT from Scratch](https://github.com/deepsheth3/Chat-GPT-from-Scratch)** | Built a GPT model from scratch | PyTorch, Jupyter |
-| **⚡ [Parallel PageRank](https://github.com/deepsheth3/Parallel_PageRank)** | 7x GPU speedup on graph algorithms | C++, CUDA |
-| **🗄️ [ADS Buffer Manager](https://github.com/deepsheth3/ADS)** | Buffer management system for Postgres | C |
-| **📈 [Stock Prediction](https://github.com/deepsheth3/Stock_Prediction_using_News_Sentiment)** | Stock prediction using news sentiment analysis | Python, LSTM |
-| **�️ [Phishing Analysis](https://github.com/deepsheth3/phishingdata-Analysis)** | ML-based phishing email detection | Python, scikit-learn |
-| **📝 [React Notes](https://github.com/deepsheth3/React_notes_project)** | Notes application with React | JavaScript, React |
-| **🔐 [Auth Project](https://github.com/deepsheth3/Auth-Project)** | Full authentication implementation | Node.js, EJS |
-| **🧠 [Makemore Series](https://github.com/deepsheth3/makemore_series)** | Projects from Karpathy's makemore | PyTorch, Jupyter |
-| **🎬 [Hotstar Clone](https://github.com/deepsheth3/hotstar-clone)** | Clone of Hotstar streaming platform | Web Dev |
-| **💻 [LeetCode](https://github.com/deepsheth3/LeetCode)** | 300+ solved LeetCode problems | DSA |
+| Project | Description | Tech | Status |
+|:--------|:------------|:-----|:-------|
+| **🤖 [Automated_SRE](https://github.com/deepsheth3/Automated_SRE)** | Agentic AI SRE with RAG + Gemini | Python, FastAPI, ChromaDB | [![CI](https://img.shields.io/badge/CI-passing-brightgreen)]() |
+| **📜 [LogParser_LLM](https://github.com/deepsheth3/LogParser_LLM)** | 33,000x cost reduction log parsing | Python, Gemini, Prefix Tree | [![CI](https://img.shields.io/badge/CI-passing-brightgreen)]() |
+| **🏥 [unity-companion](https://github.com/deepsheth3/unity-companion)** | AI Patient Results Assistant | Next.js, FastAPI, RAG | [![CI](https://img.shields.io/badge/CI-passing-brightgreen)]() |
+| **🗺️ [Odyssey](https://github.com/deepsheth3/Odyssey)** | AI-powered travel planner | TypeScript, FastAPI, GPT-4 | |
+| **⚡ [Parallel PageRank](https://github.com/deepsheth3/Parallel_PageRank)** | 300x GPU speedup | C++, CUDA, MPI | [![CI](https://img.shields.io/badge/CI-passing-brightgreen)]() |
+| **🗄️ [ADS Buffer Manager](https://github.com/deepsheth3/ADS)** | PostgreSQL buffer strategies | C, Spinlocks | [![CI](https://img.shields.io/badge/CI-passing-brightgreen)]() |
+| **🔍 [RAG-Search](https://github.com/deepsheth3/RAG-Search-with-FastAPI-and-Next.js)** | RAG with FastAPI & Next.js | Python, LangChain | |
+| **🎓 [LLM Teaching Assistant](https://github.com/deepsheth3/llm-teaching-assistant)** | Agentic course assistant | Python, OpenAI | |
+| **🤖 [ChatGPT from Scratch](https://github.com/deepsheth3/Chat-GPT-from-Scratch)** | Built GPT from scratch | PyTorch, Jupyter | |
+| **📈 [Stock Prediction](https://github.com/deepsheth3/Stock_Prediction_using_News_Sentiment)** | News sentiment analysis | Python, LSTM | |
+| **💻 [LeetCode](https://github.com/deepsheth3/LeetCode)** | 300+ solved problems | DSA | |
 
 ---
 
